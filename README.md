@@ -1,0 +1,9 @@
+This repository contains the fabrication instructions and 3D printing STL model to reproduce the agar-intralipid lung mimicking phantom described in [INSERT DOI WHEN AVAILABLE]
+We recommend printing the mold using a fused filament device (we use the Bambu P1S) with PLA (Bambu basic), to facilitate cutting and removal of the lumen cone.
+
+Journal Article Abstract:
+Significance: There is an unmet need for readily accessible imaging targets to verify whether devices can discriminate lesions from healthy tissue and identify sub-surface vasculature in the small airways.
+Aim: Develop a phantom that mimics human segmental airway adenocarcinoma in vivo for 1310 nm endoscopic optical coherence tomography (OCT) and angiography characterization.
+Approach: We develop phantoms using a mixture of agar, intralipid, and coconut oil cured in a 3D printed mold with embedded tubing to mimic vasculature. The parenchyma optical attenuation coefficient (OAC) is calibrated using optical transmission measurements from an agar and intralipid dilution series. Depth resolved OAC histogram distributions, analysis of variance, and image quality are used to assess repeatability and biofidelity of these phantoms.
+Results: Transmission measurements show large increases in OAC when intralipid is cured with agar compared to water-intralipid dilutions. Representative phantom OACs show repeatability within 2.7% and match normal in vivo tissue measurements within 16%. Embedded lesion phantoms achieve imaging characteristics of in vivo adenocarcinoma. Fluid flow within embedded tubing is visualized with Doppler OCT. 
+Conclusions: The segmental airway phantoms demonstrate in vivo human imaging characteristics, including structural and optical markers of pathological progression - providing a platform for imaging system characterization and optimization.
